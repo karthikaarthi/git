@@ -18,6 +18,24 @@ git init ->this is hiden folder
 
 #if you git status -> git status
 
+# if you add files -> git add [name of the file]
+or 
+git add . -> Just take it file to add git
+
+#if you give commit msg then this file add git\
+
+git commit -m "commitmessage" (it is create unique id)
+
+
+# git log [give the id]
+
+
+#To show all commits -> git log
+
+
+
+
+
 
 
 
