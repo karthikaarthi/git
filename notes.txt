@@ -1,0 +1,24 @@
+#Set up global 
+
+git config --global user.name ""
+git config --global user.email ""
+
+#if you check it you give this comments
+
+git config user.name
+git config user.email
+
+#if you set default branch name 
+
+git config --global init.default main
+
+#install git using this comments
+
+git init ->this is hiden folder
+
+#if you git status -> git status
+
+
+
+
+
