@@ -1,2 +1,1 @@
-Everthing is good by java
-Everthing is good by python
+All code is mdified
