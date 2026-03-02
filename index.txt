@@ -1,1 +1,2 @@
-hello welcome to all
+Everthing is good by java
+Everthing is good by python
